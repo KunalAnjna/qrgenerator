@@ -34,8 +34,8 @@ Built with **HTML**, **CSS**, and **JavaScript**.
 - **JavaScript** for QR code generation logic
 
 ## Screenshots
+![image](https://github.com/user-attachments/assets/86ad5c49-6998-472f-91df-3b366a0b28bd)
 
-_Add screenshots here if available._
 
 ## License
 
